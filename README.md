@@ -167,6 +167,22 @@ plot_signals(result.df_with_signals)
 
 MIT License.
 
+---
+
+## 👤 Author
+
+**Barry Chao**
+Undergraduate Student in Artificial Intelligence
+Xiamen University, China
+
+💬 For quantitative trading discussions, feel free to connect:
+
+* 📧 Email: [barryjoth@gmail.com](mailto:barryjoth@gmail.com)
+* 🧠 WeChat: `zmj_418`
+* 🌐 GitHub: [github.com/zmj2](https://github.com/zmj2)
+
+
+
 
 
 
