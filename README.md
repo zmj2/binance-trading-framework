@@ -172,7 +172,9 @@ MIT License.
 ## 👤 Author
 
 **Barry Chao**
+
 Undergraduate Student in Artificial Intelligence
+
 Xiamen University, China
 
 💬 For quantitative trading discussions, feel free to connect:
